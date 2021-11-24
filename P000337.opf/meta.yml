@@ -1,5 +1,7 @@
 id: P000337
 initial_creation_type: ocr
+created_at: 13/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W27883
   title: རྒྱུད་སྡེ་ཀུན་བཏུས། （གློག་ཀླད་པར་མ།）
@@ -197,10 +199,3 @@ source_metadata:
       volume_number: 32
       total_pages: 918
       base_file: v032.txt
-ebook_metadata:
-  title: རྒྱུད་སྡེ་ཀུན་བཏུས། （གློག་ཀླད་པར་མ།）
-  author: ''
-  sku: P000337
-  cover: cover.jpg
-  layers:
-  - pagination
